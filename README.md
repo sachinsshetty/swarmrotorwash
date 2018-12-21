@@ -6,10 +6,39 @@ A mechanism to maintain and clean solar arrays using a swarm of drones.
 
 Intended deployment is for the First Mars Mission .
 
-Had this idea sometime back to clean the fans at home, Every 6 months had to clean all fans at home .
+### Expected Outcome
+- Research Paper
+- Open Source Library
+- IP for production
 
-Yesterday when the drone flew bit high in my room , Dust from top shelf fell down.
 
-An idea to make a project and research paper for First semester Informatik Master's at Bonn .
+#### Status
 
-[Abstract](https://github.com/sachinsshetty/swarmrotorwash/blob/master/paper/abstract.md)
+#### Research Paper : 10.2 %
+
+
+| Task  | Status %  |
+|-------|--------|
+| Abstract | 10 |
+| Motivation | 80 |
+| Introduction | 5 |
+| Literature Survey | 0 |
+| Proposed Methodology | aa |
+| Results | 0 |
+| Future Scope | 0 |
+| Conclusion | 0 |
+| References | 0 |
+
+
+
+#### Open Source Library : 0 %
+| Task  | Status % |
+|-------|--------|
+| Framework | 0 |
+| Data | 0 |
+| TestCases | 0 |
+
+##### IP for production : 0 %
+| Task  | Status % |
+|-------|--------|
+| Patent | 0 |
